@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: eedraft.aux
+The style file: ieeetr.bst
+Database file #1: citation.bib
+Warning--empty publisher in euclidsformula
+Warning--empty year in euclidsformula
+Warning--empty publisher in elliptict
+Warning--empty journal in sqh1
+Warning--empty journal in sqh2
+You've used 22 entries,
+            1876 wiz_defined-function locations,
+            589 strings with 5773 characters,
+and the built_in function-call counts, 3977 in all, are:
+= -- 380
+> -- 113
+< -- 0
++ -- 51
+- -- 29
+* -- 211
+:= -- 562
+add.period$ -- 29
+call.type$ -- 22
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 194
+empty$ -- 469
+format.name$ -- 29
+if$ -- 1006
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 18
+newline$ -- 76
+num.names$ -- 22
+pop$ -- 98
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 152
+swap$ -- 55
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 34
+width$ -- 24
+write$ -- 190
+(There were 5 warnings)

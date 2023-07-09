@@ -1,0 +1,94 @@
+\begin{thebibliography}{10}
+
+\bibitem{perfectcuboid}
+E.~W. Weisstein, ``Perfect cuboid.''
+  \url{https://mathworld.wolfram.com/PerfectCuboid.html}.
+
+\bibitem{trivial}
+E.~W. Weisstein, ``Triviality.''
+  \url{https://mathworld.wolfram.com/Trivial.html}.
+
+\bibitem{euclidsformula}
+D.~E. Joyce, {\em Euclid's Elements}, vol.~X.
+
+\bibitem{saunderson}
+N.~Saunderson, {\em The Elements of Algebra in Ten Books}, vol.~2.
+\newblock Cambridge University Press, 1740.
+
+\bibitem{mana}
+S.~Manasataramgini, ``Two squares that sum to a cube.''
+  \url{https://manasataramgini.wordpress.com/2020/02/19/two-squares-that-sum-to-a-cube/}.
+
+\bibitem{leech}
+J.~Leech, ``{The Rational Cuboid Revisited},'' {\em The American Mathematical
+  Monthly}, vol.~84:7, pp.~518--533, 1977.
+
+\bibitem{alcurve}
+E.~W. Weisstein, ``Algebraic curve.''
+  \url{https://mathworld.wolfram.com/AlgebraicCurve.html}.
+
+\bibitem{axioms}
+D.~S. Dummit and R.~M. Foote, {\em Abstract Algebra}.
+\newblock John Wiley and Sons, Inc, 2004.
+
+\bibitem{abgroup}
+E.~W. Weisstein, ``Abelian group.''
+  \url{https://mathworld.wolfram.com/AbelianGroup.html}.
+
+\bibitem{elliptict}
+A.~Ash and R.~Gross, {\em Elliptic Tales: Curves, Counting, and Number Theory}.
+\newblock 2012.
+
+\bibitem{coxeter}
+H.~S.~M. Coxeter, ``Trisecting an orthoscheme,'' {\em Computers And Mathematics
+  With Applications}, vol.~17:1-3, pp.~59--71, 1989.
+
+\bibitem{eulerface}
+L.~Euler, ``{Observationes circa bina biquadrata quorum summam in duo alia
+  biquadrata resolvere liceat},'' {\em Novi Commentarii Academiae scientiarum
+  Imperialis Petropolitanae}, no.~17, pp.~64--69, 1773.
+\newblock \url{https://arxiv.org/abs/math/0505629}.
+
+\bibitem{lyness}
+S.~Dolan, ``{Lyness Cycles},'' {\em The Mathematical Gazette}, vol.~115,
+  no.~551, pp.~193--207, 2017.
+\newblock
+  \url{https://www.cambridge.org/core/journals/mathematical-gazette/article/abs/lyness-cycles/A847AFA4E97E1FF131E9A9F655036636}.
+
+\bibitem{cyclic}
+A.~Doerr and K.~Levasseur, ``Cyclic {Groups},'' Aug 17 2021.
+\newblock [Online; accessed 2023-02-28].
+
+\bibitem{congruence}
+E.~W. Weisstein, ``Congruence.''
+  \url{https://mathworld.wolfram.com/Congruence.html}.
+
+\bibitem{residues}
+B.~Ikenaga, ``Quadratic residues.''
+  \url{https://sites.millersville.edu/bikenaga/number-theory/quadratic-residues/quadratic-residues.html}.
+
+\bibitem{pocklington}
+H.~C. Pocklington, ``Some diophantine impossibilities,'' {\em Computers And
+  Mathematics With Applications}, vol.~18, pp.~110--118, 1912.
+
+\bibitem{luca}
+F.~Luca, ``{Perfect Cuboids and Perfect Square Triangles},'' {\em Mathematics
+  Magazine}, vol.~73:5, pp.~400--401, 2000.
+
+\bibitem{sqh1}
+P.~Stnic, S.~Sarkar, S.~S. Gupta, S.~Maitra, and N.~Kar, ``{Counting Heron
+  Triangles with Constraints},'' 2013.
+
+\bibitem{sqh2}
+R.~Rathburn, ``{Second primitive Heron triangle with square sides found},''
+  2018.
+
+\bibitem{trirec}
+E.~W. Weisstein, ``Trirectangular tetrahedron.''
+  \url{https://mathworld.wolfram.com/TrirectangularTetrahedron.html}.
+
+\bibitem{degua}
+N.~Altshiller-Court, {\em Modern Pure Solid Geometry}, vol.~2.
+\newblock New York: Chelsea, 1979.
+
+\end{thebibliography}

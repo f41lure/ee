@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{3}% 
+\contentsline {section}{\numberline {2}The Euler Brick Problem}{3}% 
+\contentsline {section}{\numberline {3}Using Pythagorean triples}{4}% 
+\contentsline {subsection}{\numberline {3.1}Euclid's Formula}{4}% 
+\contentsline {subsection}{\numberline {3.2}Pythagorean Triples with Common Legs}{5}% 
+\contentsline {section}{\numberline {4}Properties of the Euler Brick}{6}% 
+\contentsline {subsection}{\numberline {4.1}Saunderson's Method}{6}% 
+\contentsline {subsection}{\numberline {4.2}Unparameterised Bricks}{7}% 
+\contentsline {subsection}{\numberline {4.3}Bricks with Edges of a Common Ratio}{8}% 
+\contentsline {section}{\numberline {5}Face Cuboids}{12}% 
+\contentsline {section}{\numberline {6}The Perfect Cuboid}{16}% 
+\contentsline {section}{\numberline {7}Links between the Perfect Cuboid and Related Problems}{17}% 
+\contentsline {subsection}{\numberline {7.1}Euler Bricks and Perfect Cuboids}{17}% 
+\contentsline {subsection}{\numberline {7.2}The Perfect Square Triangle Problem}{18}% 
+\contentsline {subsection}{\numberline {7.3}Heronian Tetrahedra}{19}% 
+\contentsline {subsubsection}{\numberline {7.3.1}Trirectangular tetrahedra}{19}% 
+\contentsline {section}{\numberline {8}Conclusion}{20}% 
+\contentsline {section}{\numberline {A}Derivations}{24}% 
+\contentsline {subsection}{\numberline {A.1}Saunderson's Parameterisation}{24}% 
+\contentsline {subsection}{\numberline {A.2}Perfect Square Triangles and Perfect Cuboids}{27}% 
+\contentsline {section}{\numberline {B}Demonstrations}{28}% 
+\contentsline {subsection}{\numberline {B.1}Finding the Generators of a Pythagorean Triple}{28}% 
+\contentsline {subsection}{\numberline {B.2}A Parameterisation for Pairs of Pythagorean Triples with a Shared Even Side}{28}% 
+\contentsline {subsection}{\numberline {B.3}A Full Lyness Cycle}{28}% 
+\contentsline {subsection}{\numberline {B.4}Odd Numbers of the Form 4n+1 mod 16}{29}% 
+\contentsline {section}{\numberline {C}Computer Scripts}{29}% 
+\contentsline {subsection}{\numberline {C.1}Script to Combine Modular Congruences}{29}% 
